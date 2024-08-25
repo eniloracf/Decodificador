@@ -5,3 +5,8 @@ Decodificação instantânea: Ao digitar o texto codificado, a decodificação o
 Cópia para a área de transferência: O texto decodificado pode ser facilmente copiado para uso em outros aplicativos.
     <p>
 Tema claro e escuro: O usuário pode escolher entre um tema claro e escuro para personalizar a experiência visual.
+Tecnologias Utilizadas:
+
+HTML: Estrutura básica da página web.
+CSS: Estilização da interface, incluindo o tema claro e escuro.
+JavaScript: Lógica de decodificação e interação com o usuário.
